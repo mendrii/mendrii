@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>¡Hola! Soy <a href="YOUR_LINKEDIN_URL">Tu Nombre</a> 👋</h1>
+  <h1>¡Hola! Soy <a href="YOUR_LINKEDIN_URL">Almendra</a> 👋</h1>
   <p><strong>Fullstack Developer | Apasionado por crear soluciones digitales escalables</strong></p>
 </div>
 
